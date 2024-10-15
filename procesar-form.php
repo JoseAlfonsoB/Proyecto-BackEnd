@@ -9,11 +9,10 @@
     <?php
     #Recbibir los datos por POST
     $nombre = $_POST["txtNombre"];
-
     echo "Tu nombre es: $nombre <br>";
 
     $edad = $_POST["txtEdad"];
-    echo "Tu edad es de: $edad<br>"
+    echo "Tu edad es de: $edad<br>";
 
     $selecCar = $_POST["seleccioneCarrera"];
     echo "Tu carrera es: $selecCar";

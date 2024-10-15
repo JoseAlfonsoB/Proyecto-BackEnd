@@ -21,8 +21,8 @@
 
                 <select name="seleccioneCarrera" class="carrera" size="1">
                     <option value="">--Seleccione Carrera--</option>
-                    <option value=Sistemas"">Ing. Sistemas Computacionales</option>
-                    <option value="Meca">Ing. Mecatronica</option>
+                    <option value="Sistemas Computacionales">Ing. Sistemas Computacionales</option>
+                    <option value="Mecatronica">Ing. Mecatronica</option>
                     <option value="Logistica">Ing. Lógistica</option>
                     <option value="Industrial">Ing. Industrial</option>
                     <option value="Civil">Ing. Civil</option>
